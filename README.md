@@ -1,0 +1,2 @@
+# cashflowai
+Smc bot
